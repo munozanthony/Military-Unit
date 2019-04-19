@@ -1,2 +1,2 @@
 # Military-Unit
-Exercise 7B
+A program with military components that utilizes inheritance. Demonstration of a quick mission.
